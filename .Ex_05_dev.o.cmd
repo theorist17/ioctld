@@ -694,7 +694,7 @@ deps_/home/pi/Documents/ioctl/Ex_05/Ex_05_dev.o := \
     $(wildcard include/config/cpu/cp15/mmu.h) \
   arch/arm/include/generated/asm/extable.h \
   include/asm-generic/extable.h \
-  /home/pi/Documents/ioctl/Ex_05/simple.h \
+  /home/pi/Documents/ioctl/Ex_05/ledio.h \
 
 /home/pi/Documents/ioctl/Ex_05/Ex_05_dev.o: $(deps_/home/pi/Documents/ioctl/Ex_05/Ex_05_dev.o)
 
