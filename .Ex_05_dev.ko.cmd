@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/ioctl/Ex_05/Ex_05_dev.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/Documents/ioctl/Ex_05/Ex_05_dev.ko /home/pi/Documents/ioctl/Ex_05/Ex_05_dev.o /home/pi/Documents/ioctl/Ex_05/Ex_05_dev.mod.o ;  true
